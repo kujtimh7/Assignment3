@@ -23,7 +23,7 @@ Once this is done the .keySet() method could be used to transfer it back into an
 Example:
 file.txt    
 
-                'pop. pop! DROP drOp,'
+    'pop. pop! DROP drOp,'
 
 output:
 
