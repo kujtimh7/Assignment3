@@ -21,9 +21,12 @@ To ensure the most efficient code is working, it is best to first remove the obs
 Once this is done the .keySet() method could be used to transfer it back into an array to make sure we can print out the results in size order.
 
 Example:
-file.txt 'pop. pop! DROP drOp,'
+file.txt    
+
+                'pop. pop! DROP drOp,'
 
 output:
+
         2: pop
         2: drop
         
